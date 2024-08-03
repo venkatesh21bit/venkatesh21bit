@@ -4,15 +4,15 @@ I'm currently a BTech Computer Science student at Amrita Vishwa Vidyapeetham.
 
 ## 🔭 Projects and Repositories
 
-##🔭 Current Projects
+## 🔭 Current Projects
 
-###📚 [Organizations](https://github.com/CollegeProject-amrita)
+### 📚 [Organizations](https://github.com/CollegeProject-amrita)
 
 CollegeProject-amrita: A collaborative platform for college projects and discussions at Amrita Vishwa Vidyapeetham.
 
-##🔭 Current Repositories
+## 🔭 Current Repositories
 
-###[Connect](https://github.com/CollegeProject-amrita/Connect)
+### [Connect](https://github.com/CollegeProject-amrita/Connect)
 
 This full-stack development project aims to create a platform that connects like-minded individuals based on their interests, hobbies, and goals.
 
@@ -25,7 +25,7 @@ A web design project showcasing my portfolio using JavaScript.
 ### [venkatesh21bit](https://github.com/venkatesh21bit/venkatesh21bit)
 Config files for my GitHub profile.
 
-##🌱 Skills & Interests
+## 🌱 Skills & Interests
 
 Programming Languages: Python,C,JAVA,JavaScript
 
