@@ -52,7 +52,8 @@ Mongoose
 - SQL
 
 ## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/venkatesh-k-187448287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkatesh-k-187448287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 
 ## ⚡ Fun Fact
 I once built a full-fledged web application in just 24 hours 
