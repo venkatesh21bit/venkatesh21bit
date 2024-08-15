@@ -12,7 +12,7 @@ Connect-socialmedia: A collaborative platform for college projects and discussio
 
 ## 🔭 Current Repositories
 
-### [Connect]([https://github.com/CollegeProject-amrita/Connect](https://github.com/Connect-socialmedia/Connect))
+### [Connect](https://github.com/Connect-socialmedia/Connect)
 
 This full-stack development project aims to create a platform that connects like-minded individuals based on their interests, hobbies, and goals.
 
