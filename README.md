@@ -6,7 +6,7 @@ I'm currently a BTech Computer Science student at Amrita Vishwa Vidyapeetham.
 
 ## 🔭 Current Projects
 
-### 📚 [Organizations]([https://github.com/CollegeProject-amrita](https://github.com/Connect-socialmedia))
+### 📚 [Organizations](https://github.com/Connect-socialmedia)
 
 Connect-socialmedia: A collaborative platform for college projects and discussions at Amrita Vishwa Vidyapeetham.
 
