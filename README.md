@@ -1,6 +1,6 @@
 # Hi there, I'm K Venkatesh! 👋
 
-I'm currently a BTech Computer Science student at Amrita Vishwa Vidyapeetham.
+Interested to learn new things and has the unfair advantage to learn quickly
 
 ## 🔭 Projects and Repositories
 
