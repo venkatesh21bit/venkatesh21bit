@@ -1,6 +1,6 @@
 # Hi there, I'm K Venkatesh! 👋
 
-Interested to learn new things and has the unfair advantage to learn quickly
+Interested to learn new things 
 
 ## 🔭 Projects and Repositories
 
