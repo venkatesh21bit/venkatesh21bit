@@ -1,60 +1,93 @@
-# Hi there, I'm K Venkatesh! 👋
+<h1 align="center">
+Hi, I'm Venkatesh!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<br/>
 
-Interested to learn new things 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;TechEnthusiast;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
 
-## 🔭 Projects and Repositories
+<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<hr>
 
-## 🔭 Current Projects
+```
+I-am-venkatesh@github
+-------------------------
+💻 I am a self taught Full Stack Developer
+📝 I have a strong interest in exploring new techs
+🔭 Working on my own project
+🌱 Learning more about AI, ML and BlockChain Technology 
+🌟 Main languages: TypeScript, Python, JavaScript
+🚩 Interested in Full Stack Machine Learning Application development
+💖 In a complicated relationship with Neural Networks
+🎵 Love metal, lofi, jazz and soft music
+```
+<hr>
 
-### 📚 [Organizations](https://github.com/Connect-socialmedia)
+## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 
-Connect-socialmedia: A collaborative platform for college projects and discussions at Amrita Vishwa Vidyapeetham.
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</span>
 
-## 🔭 Current Repositories
+<h4> Frameworks & Libraries </h4>
+<span>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white">
+</span>
 
-### [Connect](https://github.com/Connect-socialmedia/Connect)
+<h4> Databases </h4>
+<span>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+</span>
 
-This full-stack development project aims to create a platform that connects like-minded individuals based on their interests, hobbies, and goals.
+<h4> Cloud Hosting </h4>
+<span>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white">
+</span>
 
-### [Python-problems](https://github.com/venkatesh21bit/Python-problems)
-A collection of various Python coding challenges and solutions.
+<h4> Tools & Software </h4>
+<span>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
+</span>
 
-### [MyPortfolio](https://github.com/venkatesh21bit/MyPortfolio)
-A web design project showcasing my portfolio using JavaScript.
+<h4> Operating System </h4>
+<span>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+</span>
 
-### [venkatesh21bit](https://github.com/venkatesh21bit/venkatesh21bit)
-Config files for my GitHub profile.
+<h4> Hardware Knowledge </h4>
+<span>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white">
+  <img src="https://img.shields.io/badge/IMX500-000000?style=for-the-badge&logo=hardware&logoColor=white">
+</span>
 
-## 🌱 Skills & Interests
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
-Programming Languages: Python,C,JAVA,JavaScript
+## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+<a href="https://instagram.com/venkat_esh2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40" /></a>
+<a href="https://github.com/venkatesh21bit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
 
-Full-Stack Development:
+## GitHub Stats
 
-Front-End Development-
-React
-Tailwind CSS
-Electron
+![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=venkatesh21bit&show_icons=true&count_private=true&theme=great-gatsby) </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh21bit&theme=great-gatsby&layout=compact)](https://github.com/HridoyHazard)
+</br>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-Back-End Development Frameworks-
-ExpressJS
-Node.js
-JSON
-Postman(Backend-Testing)
-Database Management System
-MongoDB
-Mongoose
-
-## 🌱 What I'm Learning
-- Full Stack Web Development
-- DSA
-- C Language
-- SQL
-
-## 📫 How to Reach Me
-https://x.com/VenkateshK66781
-
-## ⚡ Fun Fact
-I once built a full-fledged web application in just 24 hours 
-
-![Profile Views](https://komarev.com/ghpvc/?username=venkatesh21bit&color=blue)
