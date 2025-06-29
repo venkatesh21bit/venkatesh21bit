@@ -96,7 +96,7 @@ I-am-venkatesh@github
 
 ## GitHub Stats
 
-![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=venkatesh21bit&show_icons=true&count_private=true&theme=great-gatsby) </br>
+![Hridoy's GitHub stats](https://github-remote-stats.vercel.app/api?username=venkatesh21bit&show_icons=true&count_private=true&theme=great-gatsby) </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh21bit&theme=great-gatsby&layout=compact)](https://github.com/HridoyHazard)
 </br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
